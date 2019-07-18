@@ -1,0 +1,15 @@
+mcmc.bounds = function(samples,coefs,alpha=0.05){
+  result = NULL
+  n = dim(samples)[1];
+
+  for(i in 1:length(coefs)){
+    xs = do.call(`[`,c(list(samples,1:n),coefs[[i]]))
+    bounds = unname(boa.hpd(xs,alpha))
+    result = rbind(result,data.frame(coef=names(coefs)[i],
+        median=median(xs),lower=bounds[1],upper=bounds[2],
+        posterior = round(max(2*mean(sign(xs) != sign(mean(xs))),1/n),4),
+        sig = if(mean(sign(xs) != sign(mean(xs))) < 0.05) '*' else ''))
+  }
+
+  result
+}

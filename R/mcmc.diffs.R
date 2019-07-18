@@ -1,0 +1,28 @@
+mcmc.diffs = function(samples,coefs){
+    NaN
+  ## x = c()
+  ## n = nrow(samples)
+  ## for(i in 1:(length(coefs)-1)){
+  ##   coef1 = coefs[[i]]
+
+  ##   for(j in (i+1):length(coefs)){
+  ##     coef2 = coefs[[j]]
+
+  ##     if(is.numeric(coef1)){
+  ##       diff = do.call(`[`,c(list(samples,1:n),coef1)) -
+  ##         do.call(`[`,c(list(samples,1:n),coef2))
+  ##     }else diff = coef1(samples) - coef2(samples)
+
+  ##     q = boa.hpd(diff,0.05)
+  ##     qs = data.frame(comparison=paste(names(coefs)[i],'-',names(coefs)[j]),
+  ##         median = median(diff))
+  ##     qs = cbind(qs,t(q))
+  ##     p = mean(sign(diff) != sign(mean(diff)))*2
+  ##     qs[,'posterior'] =
+  ##       round(max(p,1/n),4)
+  ##     qs$sig = if(p < 0.05) '*' else ''
+  ##     x = rbind(x,qs)
+  ##   }
+  ## }
+  ## x
+}

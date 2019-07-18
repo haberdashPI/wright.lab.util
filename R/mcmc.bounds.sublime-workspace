@@ -1,0 +1,1261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"objec",
+				"object_file	statement"
+			],
+			[
+				"uni",
+				"unique_rows"
+			],
+			[
+				"cont",
+				"contrast_table"
+			],
+			[
+				"stim",
+				"stimulus_label"
+			],
+			[
+				"stimul",
+				"stimulus_label"
+			],
+			[
+				"inter",
+				"intervals	statement"
+			],
+			[
+				"pylab",
+				"pylab_util	module"
+			],
+			[
+				"st",
+				"statsmodels	module"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Package Install",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SendTextPlus/SendTextPlus.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Package Install",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SendTextPlus/SendTextPlus.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 51.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gq",
+				"Git: Quick Commit"
+			],
+			[
+				"gd",
+				"Git: Diff Current File"
+			],
+			[
+				"ga.",
+				"Git: Add..."
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"gl",
+				"Git: Log Current File"
+			],
+			[
+				"g log",
+				"Git: Log All"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"glo",
+				"Git: Log Current File"
+			],
+			[
+				"ssstan",
+				"Set Syntax: Stan"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"gam",
+				"Git: Amend Commit"
+			],
+			[
+				"gacf",
+				"Git: Add Current File"
+			],
+			[
+				"gamm",
+				"Git: Amend Commit"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"ril",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gi",
+				"Git: Commit"
+			],
+			[
+				"gdcf",
+				"Git: Diff Current File"
+			],
+			[
+				"rr",
+				"SublimeREPL: R"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"pc rem",
+				"Package Control: Remove Repository"
+			],
+			[
+				"rem p",
+				"Package Control: Remove Package"
+			],
+			[
+				"ana",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack add",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"conda goto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"anac",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"anc",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"qucom",
+				"Git: Quick Commit"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"stan",
+				"Set Syntax: Stan"
+			],
+			[
+				"instal p",
+				"Package Control: Install Package"
+			],
+			[
+				"red",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"redi",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelint them",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"anc doc",
+				"Anaconda: Display object docs"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"reide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"repl ",
+				"SublimeREPL: R"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"git add..",
+				"Git: Add..."
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"Git: status",
+				"Git: Status"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"list the",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"anacond doc",
+				"Anaconda: Display object docs"
+			],
+			[
+				"aut",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"lint them",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"lintr enab",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"lintr",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"project sav",
+				"Project: Save As"
+			],
+			[
+				":marks",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"inst ",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"repl R",
+				"SublimeREPL: R"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"inst them",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Remove Repository"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"pack instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ling",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Channel"
+			],
+			[
+				"pack ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta pack",
+				"Package Control: Install Package"
+			],
+			[
+				"google",
+				"Google Search: Search selected text/word"
+			],
+			[
+				"mc",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"mca",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"repl ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"repl r ",
+				"SublimeREPL: R"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 270.0,
+		"history":
+		[
+			"print(\"Test!\")",
+			"print(\"TESTING!\")",
+			"print \"TESTING!\"",
+			"print \"Testing\"",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/lab.util/R/covariate.adjust.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/lab.util/R/adjust.by.pre.R",
+		"/Users/davidlittle/Google Drive/Software/melonsapce/index.html",
+		"/Users/davidlittle/.ipython/profile_default/ipython_kernel_config.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/src/blmm.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/build/lib/pylab_util/stan/mixed.model.stan",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/setup.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/src/stan/mixed.model.stan",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/src/regress.py",
+		"/anaconda/lib/python2.7/site-packages/patsy/highlevel.py",
+		"/Volumes/WrightLab/4.1-Projects/2-Organized by Task/TonePlace/data/0000_2015_08_11_AFC_01.dat",
+		"/Volumes/WrightLab/4.1-Projects/2-Organized by Task/TonePlace/data/0000_2015_08_11_AFC_02.dat",
+		"/Volumes/WrightLab/4.1-Projects/2-Organized by Task/TonePlace/data/0000_2015_08_11_AFC_00.dat",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/.gitignore",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/pylab_util.sublime-project",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/pylab_util.sublime-build",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/src/rio.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/post_slopes_interact.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/slopes_interact.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/post.slopes.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/slopes.py",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/post.slopes_interact.py",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/plots/foil_bars.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/plots/foil_curves.R",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/plots/pre.post.curves.foil.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/plots/bar.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/post_slopes.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/mixed.identified.stan",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/.gitignore",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/simple.R",
+		"//anaconda/lib/python2.7/site-packages/pylab_util/sample_stats.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/tools/pylab_util/src/sample_stats.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/slopes/.git/MERGE_MSG",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/Soda Light 3.sublime-theme",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/.gitignore",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-theme",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/ap_music.sublime-workspace",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/ap_music.sublime-project",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/load.data.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/.git/COMMIT_EDITMSG",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/analyses/evaluate.linear.vs.logit.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/plots/plot.R",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/plots/curves.R",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"//anaconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/davidlittle/Google Drive/Research/analysis/f50p/f50p.sublime-project",
+		"/Users/davidlittle/Google Drive/Research/analysis/ap_music/plots/general.R",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/davidlittle/Google Drive/Research/analysis/f50p/plots/first.day.R",
+		"/Users/davidlittle/Desktop/Package Control.sublime-settings",
+		"/Users/davidlittle/Desktop/Preferences.sublime-settings",
+		"/Users/davidlittle/Desktop/Brogrammer.sublime-theme",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/Brogrammer.sublime-theme",
+		"/Users/davidlittle/.bash_profile",
+		"/Users/davidlittle/Google Drive/Research/analysis/f50p/setup.slope.data.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/f50p/plots/first_day.py",
+		"/Users/davidlittle/Google Drive/Research/analysis/f50p/posttest_order.py",
+		"/Users/davidlittle/Google Drive/Research/software/psychotaskpy/run_level.py",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/EasyMotion.sublime-settings",
+		"/Users/davidlittle/Google Drive/Research/analysis/f50p/plots/csd.annual.review.2015.05.27.R",
+		"/Users/davidlittle/Google Drive/Research/software/psychotaskpy/run_frequency.py",
+		"/Users/davidlittle/Google Drive/Research/software/psychotaskpy/experiment.py",
+		"/Users/davidlittle/Google Drive/Research/software/psychotaskpy/run_blocks.py",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/EasyMotion/EasyMotion.sublime-settings",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/davidlittle/Google Drive/Research/analysis/f50p/plots/csd.talk.bars.R",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/davidlittle/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"*.R",
+			"*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test",
+			"WAIC",
+			"init",
+			"summary",
+			"show",
+			"file",
+			"'",
+			"AP",
+			"    ",
+			"improved",
+			"3rd",
+			"\n      ",
+			"'",
+			"ispretest",
+			"dtime",
+			"mcounts",
+			"greys",
+			"'",
+			"\"",
+			"group",
+			"c(6",
+			"5,7,8",
+			"###############################################################################",
+			"intervals",
+			"gutter",
+			"lint",
+			"E701",
+			"E111",
+			"E701",
+			"E231",
+			"ignore",
+			"logistic",
+			"AP",
+			"print \"AP improved by: %4.1f%% (SE = %3.1f%%)\" % (np.mean(APimp)*100,np.std(APimp)*100)\n",
+			"cat",
+			"Searching",
+			"bar_",
+			"table",
+			"reached",
+			"AP",
+			"P",
+			"AP",
+			"regression",
+			"regimen",
+			"input",
+			"linter",
+			"##",
+			"counts =",
+			"regression",
+			"logistic",
+			"==",
+			"'",
+			"tracks.h5",
+			"join",
+			"'",
+			"autocomplete",
+			"gutter",
+			"datetime",
+			"gg",
+			"stdout_redirect",
+			"groupby",
+			"curve1_fit",
+			",",
+			"tracks",
+			"                                ",
+			"tracks",
+			"track_file",
+			"files",
+			"ctrl+alt+p",
+			"expand_",
+			"exit_insert_mode",
+			"ctrl+shift+p",
+			"\"ctrl+shift+p\"",
+			"ctrl",
+			"expand_",
+			"b_adj_log_thresh",
+			"pages",
+			"b_log_thresh",
+			"talk_bars2_small_",
+			"bars1",
+			"c",
+			"data",
+			"Data",
+			"data",
+			"tracks",
+			"timestamp",
+			"ix",
+			"tracks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"'",
+			"LA",
+			"P",
+			"LA",
+			"SA",
+			"P",
+			"sample_input",
+			"input",
+			" == ",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 133.0
+	},
+	"pinned_build_system": "",
+	"project": "mcmc.bounds.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"samp",
+				"src/sample_stats.py"
+			],
+			[
+				"blm",
+				"src/blmm.py"
+			],
+			[
+				"linear",
+				"src/stan/linear.stan"
+			],
+			[
+				"robti2",
+				"src/stan/robit2.stan"
+			],
+			[
+				"mix",
+				"build/lib/pylab_util/stan/mixed.model.stan"
+			],
+			[
+				"setup",
+				"setup.py"
+			],
+			[
+				"sampe",
+				"src/sample_stats.py"
+			],
+			[
+				"set",
+				"setup.py"
+			],
+			[
+				"rob",
+				"src/stan/robit2.stan"
+			],
+			[
+				"project",
+				"pylab_util.sublime-project"
+			],
+			[
+				"",
+				"pylab_util.sublime-build"
+			],
+			[
+				"adj",
+				"src/adjust.py"
+			],
+			[
+				"rio",
+				"src/rio.py"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"sam",
+				"src/sample_stats.py"
+			],
+			[
+				"sloe",
+				"analyses/slopes/slopes.py"
+			],
+			[
+				"post.sl",
+				"analyses/slopes/post.slopes.py"
+			],
+			[
+				"slopin",
+				"analyses/slopes/slopes_interact.py"
+			],
+			[
+				"sim",
+				"analyses/simple.R"
+			],
+			[
+				"sl",
+				"analyses/slopes/slopes.py"
+			],
+			[
+				"post",
+				"analyses/slopes/post.slopes.py"
+			],
+			[
+				"slopes.",
+				"analyses/slopes/slopes.py"
+			],
+			[
+				"p",
+				"analyses/slopes/post.slopes.py"
+			],
+			[
+				"slopes/mix",
+				"analyses/slopes/mixed.identified.stan"
+			],
+			[
+				"foilcur",
+				"plots/foil_curves.R"
+			],
+			[
+				"foilbar",
+				"plots/foil_bars.R"
+			],
+			[
+				"post_",
+				"analyses/slopes/post_slopes.R"
+			],
+			[
+				"bar",
+				"plots/foil_bars.R"
+			],
+			[
+				"slin",
+				"analyses/slopes/slopes_interact.py"
+			],
+			[
+				"foi",
+				"plots/pre.post.curves.foil.R"
+			],
+			[
+				"foil",
+				"plots/pre.post.curves.foil.R"
+			],
+			[
+				"plotfoil",
+				"plots/foil_curves.R"
+			],
+			[
+				"slopes.p",
+				"analyses/slopes/slopes.py"
+			],
+			[
+				"prepost",
+				"plots/pre.post.curves.foil.R"
+			],
+			[
+				"plba",
+				"plots/bar.R"
+			],
+			[
+				"postsl",
+				"analyses/slopes/post.slopes.py"
+			],
+			[
+				"line",
+				"analyses/evaluate.linear.vs.logit.R"
+			],
+			[
+				"plotplot",
+				"plots/plot.R"
+			],
+			[
+				"plotb",
+				"plots/bar.R"
+			],
+			[
+				"load",
+				"load.data.R"
+			],
+			[
+				"b",
+				"plots/bar.R"
+			],
+			[
+				"slope",
+				"analyses/slopes/slopes.py"
+			],
+			[
+				"slop",
+				"analyses/slopes/slopes.py"
+			],
+			[
+				"plots/cur",
+				"plots/curves.R"
+			],
+			[
+				"slo",
+				"analyses/slopes/post.slopes.py"
+			],
+			[
+				"simple",
+				"analyses/simple.R"
+			],
+			[
+				"fir",
+				"plots/first.day.R"
+			],
+			[
+				"first",
+				"plots/first_day.py"
+			],
+			[
+				"firs",
+				"plots/first.day.R"
+			],
+			[
+				"analyses/sim",
+				"analyses/simple.R"
+			],
+			[
+				"plots/pre",
+				"plots/pre.post.curves.foil.R"
+			],
+			[
+				"ind.cu",
+				"plots/ind.curves.R"
+			],
+			[
+				"csd",
+				"plots/csd.annual.review.2015.05.27.R"
+			],
+			[
+				"plots/csd",
+				"plots/csd.talk.bars.R"
+			],
+			[
+				"plot/fir",
+				"plots/first_day.py"
+			],
+			[
+				"plot/firs",
+				"plots/first.day.R"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "lab",
+		"selected_items":
+		[
+			[
+				"lab",
+				"~/Google Drive/Research/analysis/tools/lab.util/R/lab_util.sublime-workspace"
+			],
+			[
+				"",
+				"~/Google Drive/Research/analysis/ap_music/ap_music.sublime-project"
+			],
+			[
+				"apamoun",
+				"~/Google Drive/Research/analysis/ap_amount_speech/ap_amount_speech.sublime-project"
+			],
+			[
+				"apmusic",
+				"~/Google Drive/Research/analysis/ap_music/ap_music.sublime-project"
+			],
+			[
+				"f50p",
+				"~/Google Drive/Research/analysis/f50p/f50p.sublime-project"
+			],
+			[
+				"apmus",
+				"~/Google Drive/Research/analysis/ap_music/ap_music.sublime-project"
+			],
+			[
+				"apm",
+				"~/Google Drive/Research/analysis/ap_music/ap_music.sublime-project"
+			],
+			[
+				"py",
+				"~/Google Drive/Research/analysis/tools/pylab_util/pylab_util.sublime-project"
+			],
+			[
+				"apmu",
+				"~/Google Drive/Research/analysis/ap_music/ap_music.sublime-project"
+			],
+			[
+				"task",
+				"~/Google Drive/Research/software/psychotaskpy/psychotaskpy.sublime-project"
+			],
+			[
+				"amount",
+				"~/Google Drive/Research/analysis/ap_amount_speech/ap_amount_speech.sublime-project"
+			],
+			[
+				"apmusi",
+				"~/Google Drive/Research/analysis/ap_music/ap_music.sublime-project"
+			],
+			[
+				"f05p",
+				"~/Google Drive/Research/analysis/f50p/f50p.sublime-project"
+			],
+			[
+				"sch",
+				"~/Google Drive/Software/scheduling/scheduling.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

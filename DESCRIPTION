@@ -1,0 +1,10 @@
+Package: lab.util
+Type: Package
+Title: A set of utilitiy functions used in our lab.
+Version: 1.2.2
+Date: 2019-07-01
+Author: David Little
+Maintainer: <david.frank.little@gmail.com>
+Description: There is no overaching organization to these functions: look at individual functions for more information.
+License: None
+Depends: plyr
